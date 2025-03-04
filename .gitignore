@@ -1,2 +1,4 @@
 *.iml
 .idea
+myfirstgit/target
+myfirstgit/target/*.class
