@@ -2,3 +2,4 @@
 .idea
 myfirstgit/target
 myfirstgit/target/*.class
+.DS_Store
